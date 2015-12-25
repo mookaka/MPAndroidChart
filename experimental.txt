@@ -2,3 +2,4 @@ this is a file added in the experimental branch change something in the remote b
 This is some change in the stash.
 now the MPAdroidChart has been merged into the master branch.
 now I wnat to push this new branch to remote repo.
+since I have push a new branch to the remote repo,now I modify this txt again.
